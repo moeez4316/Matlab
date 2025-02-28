@@ -7,6 +7,7 @@ img = imread('C:\Users\Moeez Ahmad\Pictures\Saved Pictures\backiee-36257.jpg');
 
 % Convert 8-bit values to decimal (It's already in decimal in MATLAB)
 decimal_img = double(img);
+/*hjskb */
 
 % Convert to grayscale
 gray_img = rgb2gray(img);
